@@ -4,5 +4,6 @@ Many online articles give a basic idea of why leetcode solutions work. But somet
 
 - Dynamic Programming
     - [53. Maximum Subarray](53.%20Maximum%20Subarray.md)
-    - [1186. Maximum Subarray Sum with One Deletion.md](1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion.md)
-    - [516. Longest Palindromic Subsequence.md](516.%20Longest%20Palindromic%20Subsequence.md)
+    - [1186. Maximum Subarray Sum with One Deletion](1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion.md)
+    - [516. Longest Palindromic Subsequence](516.%20Longest%20Palindromic%20Subsequence.md)
+    - [1216. Valid Palindrome III](1216.%20Valid%20Palindrome%20III.md)
