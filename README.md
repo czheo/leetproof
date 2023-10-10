@@ -7,3 +7,5 @@ Many online articles give a basic idea of why leetcode solutions work. But somet
     - [1186. Maximum Subarray Sum with One Deletion](1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion.md)
     - [516. Longest Palindromic Subsequence](516.%20Longest%20Palindromic%20Subsequence.md)
     - [1216. Valid Palindrome III](1216.%20Valid%20Palindrome%20III.md)
+- Prefix Sum:
+    - [713. Subarray Product Less Than K](713.%20Subarray%20Product%20Less%20Than%20K.md)
