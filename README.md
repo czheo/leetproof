@@ -9,3 +9,4 @@ This repo is a collection of leetcode solution proofs. Many online articles give
 - [713. Subarray Product Less Than K](713.%20Subarray%20Product%20Less%20Than%20K.md) (prefix sum, binary search, two pointers)
 - [516. Longest Palindromic Subsequence](516.%20Longest%20Palindromic%20Subsequence.md) (DP)
 - [1216. Valid Palindrome III](1216.%20Valid%20Palindrome%20III.md) (DP)
+- [1060. Missing Element in Sorted Array](1060.%20Missing%20Element%20in%20Sorted%20Array.md) (binary search)
